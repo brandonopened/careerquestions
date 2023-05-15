@@ -5,6 +5,4 @@ To run locally, you must have python installed. Then simply run 'pip install ope
 
 If you don't have an API key from OpenAI to be able to access ChatGPT via API, get that here: https://platform.openai.com/docs/guides/production-best-practices/api-keys 
 
-You could try putting the code in Google Colab (colab.google.com) but I don't recommend that due to your API key from OpenAI potentially being exposed. 
-
 It doesn't do anything fancy yet like save a chat session but I hope you find it useful. Eventually I think it would be fun to use as a template for a simple GUI app to learn more python myself. 
